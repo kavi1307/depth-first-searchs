@@ -1,6 +1,6 @@
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
-<h3>Name: BHARATHRAJ  A</h3>
-<h3>Register Number: 212224060044    </h3>
+<h3>Name: KAVIYARASAN R  A</h3>
+<h3>Register Number: 212224060121    </h3>
 <H3>Aim:</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
